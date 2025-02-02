@@ -6,3 +6,4 @@ Tasks
 1. Let's Build Your Database: Your Gateway to Data Adventure!
 2. Create Your Magical Tables
 3. List all the tables created
+4. Full description
