@@ -8,3 +8,4 @@ Tasks
 3. List all the tables created
 4. Full description
 5. Populating Your Database with Your Very First Data
+6. Populating Your Database with Your More Data
