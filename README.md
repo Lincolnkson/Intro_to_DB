@@ -7,3 +7,4 @@ Tasks
 2. Create Your Magical Tables
 3. List all the tables created
 4. Full description
+5. Populating Your Database with Your Very First Data
