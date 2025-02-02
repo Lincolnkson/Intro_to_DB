@@ -5,4 +5,7 @@
 
 -- Example:
 -- mysql -u root -p '!S0nSQLU$er!@#$' alx_book_store < task_3.sql
+
+USE alx_book_store;
+
 SHOW TABLES;
